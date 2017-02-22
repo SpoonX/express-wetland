@@ -1,0 +1,28 @@
+{
+  "name": "express-wetland",
+  "version": "1.0.0",
+  "description": "Wetland middleware for expressJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpoonX/express-wetland.git"
+  },
+  "keywords": [
+    "ORM",
+    "express",
+    "wetland",
+    "database",
+    "mysq",
+    "sqlite",
+    "postgres"
+  ],
+  "author": "RWOverdijk <wesley@spoonx.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpoonX/express-wetland/issues"
+  },
+  "homepage": "https://github.com/SpoonX/express-wetland#readme"
+}
